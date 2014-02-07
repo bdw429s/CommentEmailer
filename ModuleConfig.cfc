@@ -5,6 +5,7 @@
 	this.webURL 			= "http://www.codersrevolution.com";
 	this.description 		= "A simple stop gap module to E-mail people of followup comments on blog posts.";
 	this.version			= "1.0";
+	this.entryPoint			= "";
 
 	function configure(){
 		
