@@ -6,7 +6,7 @@ Otherwise, they will go out any time the comment's status is changed to approved
 
 There is no need for commenters on your blog to subscribe.  The is also no way for them to unsubscribe-- if someone doesn't want to get further E-mails, then just remove their E-mail address from their comment.
 
-This module is just a stop gap until full notication support is introduced in ContentBox 2.0.  
+This module is just a stop gap until full notification support is introduced in ContentBox 2.0.  
 https://ortussolutions.atlassian.net/browse/CONTENTBOX-25
 
 Much of this code was adapted from code Andrew Scott (http://andyscott.id.au/) shared on the ContentBox List. 
