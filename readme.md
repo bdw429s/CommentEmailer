@@ -8,3 +8,5 @@ There is no need for commenters on your blog to subscribe.  The is also no way f
 
 This module is just a stop gap until full notication support is introduced in ContentBox 2.0.  
 https://ortussolutions.atlassian.net/browse/CONTENTBOX-25
+
+Much of this code was adapted from code Andrew Scott (http://andyscott.id.au/) shared on the ContentBox List. 
